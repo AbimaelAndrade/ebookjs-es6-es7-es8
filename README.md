@@ -15,7 +15,7 @@ Você pode contribuir com conhecimentos sobre Javascript ES6. Sinta-se à vontad
 - Escreva uma breve descrição sobre o tópico.
 - Por favor, inclua um arquivo .png para a capa: menos de 100Kb no formato 1902x720.
 - Escreva o máximo de exemplo possível.
-- defina o nome da sua publicação sa seguinte forma Ex. `es6-map.md`, Ex2. `es7-includes.md`.
+- Defina o nome da sua publicação da seguinte forma Ex. `es6-map.md`, Ex2. `es7-includes.md`.
 - Faça um pull request
 
 Obrigado adiantado!
@@ -23,3 +23,5 @@ Obrigado adiantado!
 # Indice
 
 ### JavaScript ES6, ES7 + ES8
+
+- [ Reduce ](es6-reduce.md)
