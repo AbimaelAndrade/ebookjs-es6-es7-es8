@@ -1,4 +1,4 @@
-### [Retornar para o índice](../README.md)
+### [Retornar para o índice](README.md)
 
 ![Javascript ES6 - Reduce](images/reduce.png)
 

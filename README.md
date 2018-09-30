@@ -2,7 +2,7 @@
 
 # Ebook JavaScript ES6, ES7 + ES8 
 
-O livro visa compartilhar o conhecimento sobre JavaScript e suas novas  features da ES6, ES7 + ES8 no formato de guia rápido para buscas rápidas.
+O livro visa compartilhar o conhecimento sobre JavaScript e suas novas  features da ES6, ES7 + ES8 no formato de guia rápido.
 
 <p align="center">
   <img width="460" height="auto" src="images/js.png" alt="JavaScript ES6">
